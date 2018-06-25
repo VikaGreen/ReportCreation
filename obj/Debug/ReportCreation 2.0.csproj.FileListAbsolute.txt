@@ -105,3 +105,115 @@ C:\Users\Администратор\source\repos\ReportCreation 2.0\ReportCreati
 C:\Users\Администратор\source\repos\ReportCreation 2.0\ReportCreation 2.0\obj\Debug\ReportCreation 2.0.dll
 C:\Users\Администратор\source\repos\ReportCreation 2.0\ReportCreation 2.0\obj\Debug\ReportCreation 2.0.pdb
 C:\Users\Администратор\source\repos\ReportCreation 2.0\ReportCreation 2.0\obj\Debug\ReportCreation 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\ReportCreation\obj\Debug\ReportCreation 2.0.dll
+C:\Users\Ivan\Desktop\ReportCreation\obj\Debug\ReportCreation 2.0.pdb
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ApplicationInsights.config
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ReportCreation 2.0.dll.config
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ReportCreation 2.0.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ReportCreation 2.0.pdb
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\csc.exe
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\csc.exe.config
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\csc.rsp
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\csi.exe
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\csi.exe.config
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\csi.rsp
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.AppContext.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Console.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\vbc.exe
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\vbc.exe.config
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\vbc.rsp
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Antlr3.Runtime.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.AI.Web.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Helpers.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Http.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Mvc.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Optimization.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Razor.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.WebPages.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\WebGrease.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Helpers.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Http.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Mvc.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Optimization.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Razor.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.WebPages.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Antlr3.Runtime.pdb
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\Microsoft.AI.Web.xml
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ru\System.Web.Http.resources.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\obj\Debug\ReportCreation 2.0.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\report\ReportCreation\obj\Debug\ReportCreation 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\report\ReportCreation\obj\Debug\ReportCreation 2.0.csproj.CopyComplete
+C:\Users\Ivan\Desktop\report\ReportCreation\obj\Debug\ReportCreation 2.0.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\obj\Debug\ReportCreation 2.0.pdb
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Cors.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Http.Cors.dll
+C:\Users\Ivan\Desktop\report\ReportCreation\bin\System.Web.Http.Cors.xml

@@ -15,7 +15,7 @@ namespace ReportCreation_2._0
 
             // Маршруты веб-API
 
-
+            config.EnableCors();
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
